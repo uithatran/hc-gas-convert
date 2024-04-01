@@ -1,0 +1,35 @@
+{
+  "name": "hc-gas-convert",
+  "version": "1.0.0",
+  "description": "hc-gas-convert",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uithatran/hc-gas-convert.git"
+  },
+  "keywords": [
+    "hc-gas-convert",
+    "ethereum",
+    "gas",
+    "eth",
+    "crypto"
+  ],
+  "author": "uithatran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uithatran/hc-gas-convert/issues"
+  },
+  "homepage": "https://github.com/uithatran/hc-gas-convert#readme",
+  "dependencies": {
+    "web3": "^1.5.2",
+    "ftm-gas-convert": "^1.0.0",
+    "infinity-utils": "^1.0.2",
+    "run-loop-til-success": "^1.0.1",
+    "ttk_library": "^1.2.1",
+    "excel-utils-phuongdh": "^1.0.1",
+    "file-operations-dhp": "^1.0.2"
+  }
+}
